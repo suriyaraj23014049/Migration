@@ -1,6 +1,6 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-### Name : Jeeva K
-### Reg No : 212223230090
+### Name : SURIYA RAJ K
+### Reg No : 212223040216
 ## Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
